@@ -1,0 +1,15 @@
+module.exports = {
+  TUndefined: 'undefined',
+  TNull: 'null',
+  TBoolean: 'Boolean',
+  TString: 'String',
+  TNumber: 'Number',
+  TFunction: 'Function',
+  TObject: 'Object',
+  TArray: 'Array',
+  TArguments: 'Arguments',
+  TDate: 'Date',
+  TRegExp: 'RegExp',
+  TError: 'Error',
+  TFactor: 'Factor'
+};
